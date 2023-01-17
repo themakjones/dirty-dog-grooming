@@ -1,0 +1,28 @@
+{
+  "name": "dirty-dog-grooming",
+  "version": "1.0.0",
+  "description": "",
+  "source": "./src/index.html",
+  "scripts": {
+    "dev": "parcel",
+    "build": "parcel build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/themakjones/dirty-dog-grooming.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/themakjones/dirty-dog-grooming/issues"
+  },
+  "homepage": "https://github.com/themakjones/dirty-dog-grooming#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.0-alpha1"
+  },
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.8.2",
+    "parcel": "^2.8.2"
+  }
+}
